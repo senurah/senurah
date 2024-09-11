@@ -4,8 +4,11 @@
   👋 Hello! I’m a dedicated software enthusiast and tech explorer with a passion for embracing challenges and diving into new technologies. I thrive on uncovering innovative solutions and am always on the lookout for the next exciting project. Let’s connect and build something amazing together!
 </p>
 <hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senurah&theme=dark&layout=compact" alt="senurah"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=senurah&show_icons=true&locale=en&theme=dark" alt="senurah"/>
+<p align="center">
+  <div align="center">
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=senurah&theme=dark&layout=compact" alt="senurah streak stats"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=senurah&show_icons=true&locale=en&theme=dark" alt="senurah top langs"/>
+  </div>
 </p>
 <hr>
 <h3 align="center">Skills</h3>
