@@ -6,10 +6,11 @@
 <hr>
 <p align="center">
   <div align="center">
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=senurah&theme=dark&layout=compact" alt="senurah streak stats"/>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=senurah&show_icons=true&locale=en&theme=dark" alt="senurah top langs"/>
+    <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=senurah&theme=dark&layout=compact" alt="senurah streak stats"/>
+    <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=senurah&show_icons=true&locale=en&theme=dark" alt="senurah top langs"/>
   </div>
 </p>
+
 <hr>
 <h3 align="center">Skills</h3>
 <p align="center">
