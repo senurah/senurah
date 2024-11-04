@@ -7,7 +7,7 @@
 <p align="center">
   <div align="center">
     <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=senurah&theme=dark&layout=compact" alt="senurah streak stats"/>
-    <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=senurah&show_icons=true&locale=en&theme=dark" alt="senurah top langs"/>
+    <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=senurah&&hide=javascript,HTML,scss&show_icons=true&locale=en&theme=dark" alt="senurah top langs"/>
   </div>
 </p>
 
